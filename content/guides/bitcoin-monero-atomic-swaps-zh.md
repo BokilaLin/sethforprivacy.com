@@ -38,7 +38,7 @@ title: 执行比特币 <> 门罗原子交换
 
 # 获取工具
 
-1. 下载最新版本的`swap`工具，即`swap_0.11.0_linux x86_64.tar`
+1. 下载最新版本的`swap`工具，即`swap_0.11.0_linux_x86_64.tar`
 
     <https://github.com/comit-network/xmr-btc-swap/releases/latest>
 

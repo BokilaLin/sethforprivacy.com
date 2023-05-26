@@ -96,7 +96,7 @@ title: 运行原子交换提供者（进阶）
     cd ~/asb
     ```
 
-2. 通过浏览器下载最新版本的`asb`工具，即`asb_0.11.0_linux x86_64.tar`
+2. 通过浏览器下载最新版本的`asb`工具，即`asb_0.11.0_linux_x86_64.tar`
     1. <https://github.com/comit-network/xmr-btc-swap/releases/latest>
     2. 或者，您可以通过命令列下载该工具
 
@@ -533,11 +533,11 @@ WantedBy=multi-user.target
 ***注意：你只能添加基于IPv4和DNS地址的ASBs ATM，所以如果你正在使用onion-only ASB，现在跳过这一步。***
 
 1. 导航到<https://unstoppableswap.net/>
-2. 单击`交换提供者`框
+2. 单击"交换提供者"框
 
     {{< figure src="/run-an-atomic-swap-provider-advanced/unstoppable-home.png" align="center" style="border-radius: 8px;" >}}
 
-3. 单击“提交交换提供者”
+3. 单击"提交交换提供者"
 
     {{< figure src="/run-an-atomic-swap-provider-advanced/unstoppable-providers.png" align="center" style="border-radius: 8px;" >}}
 
@@ -551,7 +551,7 @@ WantedBy=multi-user.target
 
     {{< figure src="/run-an-atomic-swap-provider-advanced/unstoppable-submit.png" align="center" style="border-radius: 8px;" >}}
 
-5. 点击`提交`
+5. 点击"提交"
 
 # 交换期间问题处理
 
